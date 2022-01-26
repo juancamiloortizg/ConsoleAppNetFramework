@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\NetCoreIntro\ConsoleApp\bin\Release\net6.0\publish\ConsoleApp.exe
+C:\Users\user\Desktop\NetCoreIntro\ConsoleApp\bin\Release\net6.0\publish\ConsoleApp.dll
+C:\Users\user\Desktop\NetCoreIntro\ConsoleApp\bin\Release\net6.0\publish\ConsoleApp.deps.json
+C:\Users\user\Desktop\NetCoreIntro\ConsoleApp\bin\Release\net6.0\publish\ConsoleApp.runtimeconfig.json
+C:\Users\user\Desktop\NetCoreIntro\ConsoleApp\bin\Release\net6.0\publish\ConsoleApp.pdb
